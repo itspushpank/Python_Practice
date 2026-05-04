@@ -1,0 +1,4 @@
+1.Write a Program to display all prime numbers within an interval of 20 and 50. 
+2.Write a python program to find factorial of a number using Recursion. 
+3.Write  a  python  script  to  print  the  current  date  in  the  following  format  “WED   09 02:26:23   IST 2020”. 
+4.Write  a  Python  program  to  convert  temperatures  to  and  from  Celsius, Fahrenheit
