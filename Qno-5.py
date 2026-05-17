@@ -2,7 +2,7 @@
 n=int(input("Enter the no of terms onto which you want fibo series"))
 count=0
 a,b=0,1
-while count != n:
+while count <= n:
     count+=1
     if count==1:
         print(0)
